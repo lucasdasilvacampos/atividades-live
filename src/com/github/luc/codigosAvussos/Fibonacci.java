@@ -13,5 +13,8 @@ public class Fibonacci {
             f1 = f2;
             f2 = f3;
         }
+
+        System.out.println("Fim da sequência");
+        
     }
 }
